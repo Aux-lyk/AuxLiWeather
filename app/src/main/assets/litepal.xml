@@ -1,0 +1,12 @@
+<litepal>
+    <!--数据库名-->
+    <dbname value="auxli_weather" />
+    <!--版本-->
+    <version value="1" />
+    <!--映射列表-->
+    <list>
+        <mapping class="com.auxliweather.android.db.Province" />
+        <mapping class="com.auxliweather.android.db.City" />
+        <mapping class="com.auxliweather.android.db.County" />
+    </list>
+</litepal>
