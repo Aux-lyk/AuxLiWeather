@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AuxLiWeather</string>
+    <string name="forecast_text">预报</string>
+    <string name="air_quality_index_text">空气质量</string>
+    <string name="aqi_index_text">AQI 指数</string>
+    <string name="pm25_index_text">PM2.5 指数</string>
+    <string name="suggestion_text">生活建议</string>
+    <string name="choice_now_text">重新选择城市</string>
 </resources>
