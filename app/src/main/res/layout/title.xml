@@ -6,7 +6,7 @@
 
     <Button
         android:id="@+id/choice_now"
-        android:layout_marginLeft="15dp"
+        android:layout_marginLeft="10dp"
         android:layout_alignParentLeft="true"
         android:layout_centerVertical="true"
         android:paddingLeft="10dp"
